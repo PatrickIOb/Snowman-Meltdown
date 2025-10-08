@@ -15,15 +15,22 @@ STAGES = [
      (o o) 
      ( : ) 
      """,
-     # Stage 2: Only the head remains
+     # Stage 2: Only the head and torso
      """
       ___  
      /___\\ 
      (o o) 
      """,
-     # Stage 3: Snowman completely melted
+     # Stage 3: Head drooping
      """
       ___  
      /___\\ 
+      (o o)
+     """,
+     # Stage 4: Snowman completely melted
      """
- ]
+      ___  
+     /___\\ 
+      ~~~~
+     """
+]
